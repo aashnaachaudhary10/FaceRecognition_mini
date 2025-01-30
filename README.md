@@ -29,6 +29,7 @@ face_recognition_database.sql     # SQL script to set up the database
 - `opencv-python`
 - `mysql-connector-python`
 - `tkinter` (built-in with Python)
+- `Pillow`
 - `numpy`
 
 Install the dependencies using:
